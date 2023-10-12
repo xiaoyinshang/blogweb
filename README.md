@@ -22,7 +22,7 @@
 将要素类从地理数据库粘贴到要素数据集中将返回以下消息：
 
 “无法粘贴 <要素类> 空间参考不匹配”
-![[O-Image] Failed to paste The spatial references do not match](C:/Users/shang/Nutstore/1/Typora/Typora_pic/00N39000003LL24-0EM39000000wdWe.png)
+![[O-Image] Failed to paste The spatial references do not match](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627830.png)
 
 ### 原因
 
@@ -44,9 +44,9 @@
 
 2、删除legend下面的图层名称及字段名称，也可以在属性对话框中进行，点击“items”选项卡，选择你需要修改的图层，点击“style...”，选择你想要的样式即可。这样做出来的图例可以反复使用，更改了地图样式后，图例也会自动更新。
 
-![image-20220317110601016](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220317110601016.png)
+![image-20220317110601016](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627832.png)
 
-![如何把ArcGIS 的图例legend下面的图层名称及字段名称删除](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image002.jpg)
+![如何把ArcGIS 的图例legend下面的图层名称及字段名称删除](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627833.jpg)
 
 
 
@@ -66,23 +66,23 @@
 
 3. 颜色：配色这东西可太重要了，无奈我对画画一点天赋也没有，也不懂色彩搭配，通常都是各种试，唯一的缺点是浪费时间而且也不一定会好看。建议：一定选用浅色搭配，特别花里胡哨的并不建议。
    参考：https://blog.csdn.net/weixin_42638388/article/details/104439779
-   ![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/20200222103151611.png)
+   ![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627834.png)
 
-   ![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/20200222103214217.png)
+   ![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627835.png)
 
-   ![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/20200222103237428.png)
+   ![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627836.png)
 
-   ![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/20200222103246909.png)
+   ![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627837.png)
 
-![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/20200222103255417.png)
+![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627838.png)
 
-![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/20200222103305944.png)
+![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627839.png)
 
-![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjYzODM4OA==,size_16,color_FFFFFF,t_70.png)
+![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627840.png)
 
-![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/20200222103325860.png)
+![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627841.png)
 
-![在这里插入图片描述](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020022210334522.png)
+![在这里插入图片描述](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627842.png)
 
 
 
@@ -90,31 +90,31 @@
 
 红黑这种万能，而且不犯错的搭配方法,Science也是经常使用的。一般红色用于重点数据线，黑色用于参考线。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000.jpeg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627843.jpeg)
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000-165050698746211.jpeg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627844.jpeg)
 
 如果你用腻了红黑，可以试试上面的红蓝配色。将颜色的饱和度略微降低，看起来就不会那么死板了。
 
 ## 经典三色搭配
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000-165050702184013.jpeg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627845.jpeg)
 
 上面的方案是最常见的了，简单直接。往往用于平行实验数据，无须突出某一数据，比如重复实验、平行实验等等。
 
 **一暖二冷，更能突出重点**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000-165050703687515.jpeg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627846.jpeg)
 
 形成对比，是数据展示最重要的作用了。毋庸置疑，通过颜色区分是更高效的。Science最喜欢用上面的冷暖色搭配了，红色和深浅蓝色搭配，相当和谐。
 
 ## 四色搭配
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000-165050707730517.jpeg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627847.jpeg)
 
 ## 五色及以上搭配：搭配有难度，请尽量降低饱和度
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000-165050710076419.jpeg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627848.jpeg)
 
 到了五种颜色以上，确实很难搭配。说实话颜色都不够用了，而且整体看起来也会很乱，主次不分，上图就是最好的例子。选的颜色都很清晰，但放在一起就很不美观。
 
@@ -124,17 +124,17 @@
 
 **灰色衬托主色**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000-165050716038021.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627849.png)
 
 **经典多色搭配1**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000-165050718702723.jpeg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627850.jpeg)
 
 图片来源：Lézine et al., Science 363, 177–181 (2019)
 
 **经典多色搭配**2
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/1000-165050718702724.jpeg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627851.jpeg)
 
 图片来源：Akilesh et al., Science 363, 142 (2019)
 
@@ -284,7 +284,7 @@ $ jupyter notebook
 
 浏览器地址栏中默认地将会显示：`http://localhost:8888`。其中，“localhost”指的是本机，“8888”则是端口号。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image002-16421423112391.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627852.jpg)
 
 URL
 
@@ -310,7 +310,7 @@ jupyter notebook --no-browser
 
 此时，将会在终端显示启动的服务器信息，并在服务器启动之后，显示出打开浏览器页面的链接。当你需要启动浏览器页面时，只需要复制链接，并粘贴在浏览器的地址栏中，轻按回车变转到了你的Jupyter Notebook页面。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image004-16421423112402.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627853.jpg)
 
 no_browser
 
@@ -322,7 +322,7 @@ no_browser
 
 当执行完启动命令之后，浏览器将会进入到Notebook的主页面，如下图所示。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image006.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627854.jpg)
 
 Notebook Dashboard
 
@@ -360,7 +360,7 @@ jupyter notebook --generate-config
 - 注意： 这条命令虽然可以用于查看配置文件所在的路径，但主要用途是是否将这个路径下的配置文件**替换**为**默认配置文件**。
       如果你是第一次查询，那么**或许**不会出现下图的提示；若文件已经存在或被修改，使用这个命令之后会出现询问“Overwrite /Users/raxxie/.jupyter/jupyter_notebook_config.py     with default config? [y/N]”，即“用默认配置文件覆盖此路径下的文件吗？”，如果按“y”，则完成覆盖，那么之前所做的修改都将失效；如果只是为了查询路径，那么一定要输入“N”。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image008.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627855.jpg)
 
 命令
 
@@ -393,7 +393,7 @@ jupyter notebook --generate-config
 vim ~/.jupyter/jupyter_notebook_config.py
 ```
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image010.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627856.jpg)
 
 vim打开配置文件
 
@@ -413,7 +413,7 @@ vim打开配置文件
 
 把该行行首的**井号（#）**删除。因为配置文件是Python的可执行文件，在Python中，井号（#）表示注释，即在编译过程中不会执行该行命令，所以为了使修改生效，需要删除井号（#）。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image012.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627857.jpg)
 
 ###### ⒠ 保存配置文件
 
@@ -431,7 +431,7 @@ vim打开配置文件
 
 在终端中输入命令`jupyter notebook`打开Jupyter Notebook，此时你会看到一个清爽的界面，恭喜！
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image014.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627858.jpg)
 
 modified
 
@@ -447,7 +447,7 @@ modified
 
 ### 1. Files页面
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/webp.webp)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627859.webp)
 
 Files页面
 
@@ -461,7 +461,7 @@ Files页面是用于管理和创建文件相关的类目。
 
 #### ① 笔记本的基本操作
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/webp-16461844421222.webp)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627860.webp)
 
 笔记本的使用
 
@@ -497,7 +497,7 @@ Conda页面主要是Jupyter Notebook与Conda关联之后对Conda环境和包进�
 
 ### 5. Nbextensions页面
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image020.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627861.jpg)
 
 nbextensions
 
@@ -519,13 +519,13 @@ conda install nb_conda
 
 ·    可以在Conda类目下对conda环境和包进行一系列操作。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/webp-16461845327594.webp)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627862.webp)
 
 conda类目
 
 ·    可以在笔记本内的“Kernel”类目里的“Change kernel”切换内核。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image024.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627863.jpg)
 
 切换内核
 
@@ -547,13 +547,13 @@ conda install -c conda-forge jupyter_contrib_nbextensions
 
 ·    执行上述命令后，启动Jupyter Notebook，你会发现导航栏多了“Nbextensions”的类目，点击“Nbextensions”，勾选“Table of Contents ⑵”
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image026.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627864.jpg)
 
 Nbextensions
 
 ·    之后再在Jupyter Notebook中使用Markdown，点击下图的图标即可使用啦。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image028.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627865.jpg)
 
 添加目录
 
@@ -933,7 +933,7 @@ python3 -m ipykernel install --user --name <env_name> --display-name "<notebook_
 
 ·    命令模式下，单元格边框为灰色，且左侧边框线为蓝色粗线条。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image030.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627866.jpg)
 
 命令模式
 
@@ -945,7 +945,7 @@ python3 -m ipykernel install --user --name <env_name> --display-name "<notebook_
 
 ·    编辑模式下，单元格边框和左侧边框线均为绿色。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image032.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627867.jpg)
 
 编辑模式
 
@@ -1090,7 +1090,7 @@ pip uninstall nbformat -y
 
 ## MapBox的知识结构图
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image002-16421426797548.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627868.png)
 
 ## **如何在GIS软件中加入Mapbox的底图**
 
@@ -1101,17 +1101,17 @@ pip uninstall nbformat -y
 
 https://api.mapbox.com/styles/v1/YOUR_USERNAME/YOUR_STYLE_ID/wmts?access_token=pk.eyJ1IjoiYXJjbWFwLWZyb20tMC10by0xIiwiYSI6ImNreGE2aXg1dzA5eGkydnN0am40eWYwNXYifQ.oDcHzFEmQcnfZbUgOz_-NA
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image004-16421426797579.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627869.jpg)
 
 1. 打开ArcGIS，进入之后，右侧的工具里面，找到WMTS服务：
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image006-164214267975710.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627870.jpg)
 
 1. 双击**WMTS**服务，把链接复制进去，点击获取图层，然后确定。如果询问你用户名密码，取消即可。这样目录就会出现一个新的Mapbox的api项，双击显示图层，拖到数据框内，即显示已编辑的地图样式。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image008-164214267975711.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627871.jpg)
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image010-164214267975712.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627872.jpg)
 
 1. 若后续在Mapbox Studio 中更新样式，则需要在GIS中刷新服务！
 2. 其他注意事项：Mapbox是**wgs84坐标系**，另外mapbox是国外网站，有时候会比较慢，当然，还需**注意国界问题**，虽然mapbox针对中国地区专门的审核过，但是地图类的东西，用起来还是自己多多留心。
@@ -1234,12 +1234,12 @@ https://api.mapbox.com/styles/v1/YOUR_USERNAME/YOUR_STYLE_ID/wmts?access_token=p
 
 - **创建独立的一块公式区域**。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-173040dc6f514f968238de4eea234103_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627873.jpg)
 
 - 上部分为公式输入区
 - 下部分为效果展示区
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-219413f9b93e87886e39da12cea971a6_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627874.jpg)
 
 编辑别处时展示效果图。
 
@@ -1251,13 +1251,13 @@ https://api.mapbox.com/styles/v1/YOUR_USERNAME/YOUR_STYLE_ID/wmts?access_token=p
 
 - **将公式嵌入文字内**。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-92380dc1f20d8942e68beba08c742ed8_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627875.jpg)
 
 **方法一**： 在$$的中间加入需要的公式
 
 **简便的方法一**：先按 $ ，再按 “esc”（键盘左上角）
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-ba58046e522d2a96a8def586f04a3136_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627876.jpg)
 
 （行内公式是需要先设置一下）
 
@@ -1267,27 +1267,27 @@ https://api.mapbox.com/styles/v1/YOUR_USERNAME/YOUR_STYLE_ID/wmts?access_token=p
 
 #### **1.上下标，正负无穷**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-9e56df605e51b7aa0cf7a45d0b5bfde1_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627877.jpg)
 
 #### **2.四则运算，分式，根号，省略号**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-417aefe2addf8328b4865d037864ec4e_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627878.jpg)
 
 #### **3.三角函数**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-2527327da18ba3cd4d9cfa9483bcbe1f_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627879.jpg)
 
 #### **4.矢量，累加累乘，极限**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-701158788db26a5936516dc93d34b378_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627880.jpg)
 
 #### **5.希腊字母**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-ec3ad9e52d4b26648d73c64c43bc217e_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627881.jpg)
 
 #### **6.关系运算符**
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-9088cec7cffbc94c5daef26147278062_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627882.jpg)
 
 ------
 
@@ -1297,7 +1297,7 @@ https://api.mapbox.com/styles/v1/YOUR_USERNAME/YOUR_STYLE_ID/wmts?access_token=p
 
 使用`\begin{matrix}…\end{matrix}`生成， 每一行以`\\`结尾表示换行，元素间以`&`间隔，式子的表示序号`\tag{1}`（右边的序号）。
 
-![image-20220125205343332](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205343332.png)
+![image-20220125205343332](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627883.png)
 
 ```text
  $$
@@ -1315,7 +1315,7 @@ $$
 
 大括号：
 
-![image-20220125205405025](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205405025.png)
+![image-20220125205405025](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627884.png)
 
 ```text
 $$
@@ -1331,7 +1331,7 @@ $$
 
 中括号：
 
-![image-20220125205414086](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205414086.png)
+![image-20220125205414086](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627885.png)
 
 ```text
 $$
@@ -1347,7 +1347,7 @@ $$
 
 小括号：
 
-![image-20220125205426128](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205426128.png)
+![image-20220125205426128](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627886.png)
 
 ```text
 $$
@@ -1365,7 +1365,7 @@ $$
 
 大括号：
 
-![image-20220125205405025](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205405025.png)
+![image-20220125205405025](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627884.png)
 
 ```text
 $$
@@ -1379,7 +1379,7 @@ $$
 
 中括号：
 
-![image-20220125205414086](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205414086.png)
+![image-20220125205414086](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627885.png)
 
 ```text
 $$
@@ -1395,7 +1395,7 @@ $$
 
 行省略号`\cdots`，列省略号`\vdots`，斜向省略号（左上至右下）`\ddots`。
 
-![image-20220125205509268](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205509268.png)
+![image-20220125205509268](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627887.png)
 
 ```text
 $$
@@ -1425,7 +1425,7 @@ $$
 
 行列式相关语法与矩阵类似
 
-![image-20220125205529522](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205529522.png)
+![image-20220125205529522](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627888.png)
 
 ```text
 $$
@@ -1444,7 +1444,7 @@ $$
 
 #### **1.简易表格**
 
-![image-20220125205542034](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205542034.png)
+![image-20220125205542034](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627889.png)
 
 ```text
 $$
@@ -1469,7 +1469,7 @@ $$
 
 #### **2.真值表**
 
-![image-20220125205226082](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205226082.png)
+![image-20220125205226082](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627890.png)
 
 ```text
 $$
@@ -1487,7 +1487,7 @@ $$
 
 ### **多行等式对齐**
 
-![image-20220125205212036](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205212036.png)
+![image-20220125205212036](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627891.png)
 
 ```text
 $$
@@ -1502,7 +1502,7 @@ $$
 
 方程组：
 
-![image-20220125205242993](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205242993.png)
+![image-20220125205242993](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627892.png)
 
 ```text
 $$
@@ -1516,7 +1516,7 @@ $$
 
 同理，条件表达式：
 
-![image-20220125205252995](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220125205252995.png)
+![image-20220125205252995](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627893.png)
 
 ```text
 $$
@@ -1572,7 +1572,7 @@ print(f)			   //直接print(函数名)
 
 更多细节和实例可以浏览我新的文章：
 
-[点点星河：使用Python一键生成LaTeX数学公式57 赞同 · 4 评论文章![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-b0d50fd5f6bb3327dae0b1f73a305ae0_180x120.jpg)](https://zhuanlan.zhihu.com/p/270596333)
+[点点星河：使用Python一键生成LaTeX数学公式57 赞同 · 4 评论文章![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627895.jpg)](https://zhuanlan.zhihu.com/p/270596333)
 
 ------
 
@@ -1824,11 +1824,11 @@ a+b+c⏟1.0+d2.0：\overbrace{a+\underbrace{b+c}_{1.0}+d}^{
 
 关闭mathtype打开电脑的注册表编辑器（按住win+R快捷键运行，然后输入regedit.exe）
 
-![image-20220114144008608](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220114144008608.png)
+![image-20220114144008608](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627896.png)
 
 找到一级目录HKEY_CURRENT_USER下的software目录，在该级目录里找到install option目录，删除注册列表中的第二项名为option6.9的文件。
 
- ![image-20220114144016117](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220114144016117.png)
+ ![image-20220114144016117](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627897.png)
 
 最后重启word或mathtype即可（或者重启电脑）。
 
@@ -1838,7 +1838,7 @@ a+b+c⏟1.0+d2.0：\overbrace{a+\underbrace{b+c}_{1.0}+d}^{
 
 拷贝三个文件到如下路径：
 
- ![image-20220114144048215](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220114144048215.png)
+ ![image-20220114144048215](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627898.png)
 
 第一个 MathPage.wll：MathType安装路径\MathPage\32
 
@@ -1850,7 +1850,7 @@ a+b+c⏟1.0+d2.0：\overbrace{a+\underbrace{b+c}_{1.0}+d}^{
 
 第三个 WordCmds.dot：C:\Program Files (x86)\MathType\Office Support\64
 
- ![image-20220114144143527](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220114144143527.png)
+ ![image-20220114144143527](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627899.png)
 
 
 
@@ -1866,7 +1866,7 @@ a+b+c⏟1.0+d2.0：\overbrace{a+\underbrace{b+c}_{1.0}+d}^{
 - 在word的菜单栏中找到mathtype那一栏
 - 在mathtype栏中找到convert equation，点击即可完成。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/v2-72921f424b30699757d9db48113f93c0_720w.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627900.jpg)
 
 这个方法也可以解决word里面的公式显示效果与mathtype编辑器不一样的问题。
 
@@ -1946,7 +1946,7 @@ D:\test>
 >
 > ==路径问题？==
 >
-> ![image-20220224230816571](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220224230816571.png)
+> ![image-20220224230816571](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627901.png)
 
 #### 1  语法
 
@@ -2285,7 +2285,7 @@ SHOW VARIABLES LIKE "secure_file_priv";
 
 如果value值为null，则为禁止，如果有文件夹目录，则只允许改目录下文件（测试子目录也不行），如果为空，则不限制目录；
 
-![image-20220224224928052](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220224224928052.png)
+![image-20220224224928052](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627902.png)
 
 修改配置可修改mysql配置文件，查看是否有
 
@@ -2344,43 +2344,43 @@ SHOW VARIABLES LIKE "secure_file_priv";
 
 ### 具体激活步骤：
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071626.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627903.png)
 
 出现下列界面说明路径添加成功
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071727.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627904.jpg)
 
 生成及复制注册码
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071728.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627905.png)
 
 打开Navicat进行注册
 
 首次打开Navicat会弹出下述界面，选择注册
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071729.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627906.png)
 
 将复制的注册码填入，点击激活
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071730.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627907.png)
 
 选择手动激活
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071831.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627908.png)
 
 会产生请求码，将请起码复制到激活软件中，生成激活码
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071832.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627909.png)
 
 点击generate生成激活码，复制激活码，点击激活
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071833.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627910.png)
 
 
 
 点击确定——永久激活
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2020111210071834.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627911.png)
 
 ### **注意事项：**
 
@@ -2413,41 +2413,41 @@ pycharm是一款功能强大的python编辑器，具有跨平台性，鉴于目�
 
 进入该网站后，我们会看到如下界面
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/c8bc398005ad46eefa8f0498def92608.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627912.png)
 
 professional表示专业版，community是社区版，推荐安装社区版，因为是免费使用的。
 
 1、当下载好以后，点击安装，记得修改安装路径，我这里放的是E盘，修改好以后，Next
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/b726ddd4ea332f9cde99603c85f24b5f.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627913.png)
 
 2、接下来是
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/9d17b00106df759c08c987620bed8ae9.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627914.png)
 
 3、如下
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/d774a7de7cdc628ad952cb5148dbb217.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627915.png)
 
 点击Install,然后就是静静的等待安装了。如果我们之前没有下载有Python解释器的话，在等待安装的时间我们得去下载python解释器，不然pycharm只是一副没有灵魂的驱壳
 
 4、进入python官方网站：https://www.python.org/
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/0571ac37f9014d3346050c0b76e11713.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627916.png)
 
 点击Downloads,进入选择下载界面
 
 5、如下所示，选择我们需要的python版本号，点击Download
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/c44addbc2340ecfd8aa37834c2bbd47b.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627917.png)
 
 6、我选择的是python3.5.1，会看到如下界面
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/2c7b58b34d8af7a4c856ef7de1a302fc.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627918.png)
 
 因为我们需要用到的是Windows下的解释器，所以在Operating System中可以选择对应的Windows版本，有64位和32位可以选择，我选择的是画红线的这个，executable表示可执行版，需要安装后使用，embeddable表示嵌入版，就是解压以后就可以使用的版本。
 
-可执行版安装比较简单，一直默认就好了。embeddable需要注意，当我们解压![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/c2f5b31cf15b41d506f53712d07c397b.png)好以后，会看到里面还有一个压缩包![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/6ffa9bc53dcec44aadc67f624ed24a84.png)这个也是需要解压到同一路径的，这里面放着pip、setuptools等工具，如果不解压，我们将无法在pycharm中更新模块，比如需要用到pymysql，就无法下载。虽然也能用，但是就是“阉割版”的python解释器了。
+可执行版安装比较简单，一直默认就好了。embeddable需要注意，当我们解压![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627919.png)好以后，会看到里面还有一个压缩包![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627920.png)这个也是需要解压到同一路径的，这里面放着pip、setuptools等工具，如果不解压，我们将无法在pycharm中更新模块，比如需要用到pymysql，就无法下载。虽然也能用，但是就是“阉割版”的python解释器了。
 
 如果是embeddable版，记得把解释器所在的路径添加到环境变量里，不然pycharm无法自动获得解释器位置。
 
@@ -2455,91 +2455,91 @@ professional表示专业版，community是社区版，推荐安装社区版，�
 
 （1）右键我的电脑，点击属性，弹出如下界面
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/671c18261f3fc88542f8fdfac31e590b.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627921.png)
 
 （2）点击高级系统设置，出现下图
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/50e0972ff4bcdab9f5fa6d3bf3202261.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627922.png)
 
 （3）点击环境变量
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/e6f32dd08ebf8bec4faee06d009ff100.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627923.png)
 
 （4）找到系统变量里面的Path，编辑它，将python解释器所在路径粘贴到最后面，再加个分号。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/10733d66225a7abd14b9ffe1893b51da.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627924.png)
 
 环境变量配置结束
 
 8、这时候Pycharm也装好了，我们进入该软件。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/242c5a6d198f96e1eb4adff0e7b20708.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627925.png)
 
 9、点击Create New Project，接下来是重点
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/648c1fc7827ba0ca9b87d72629c54466.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627926.png)
 
 Location是我们存放工程的路径，点击这个三角符号，可以看到pycharm已经自动获取了Python 3.5。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/a8089054f2b74ae884ac6004c5f1f485.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627927.png)
 
 点击第一个我们可以选择Location的路径，比如
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/ab6e8e316a341c60fbc5f80e84387a47.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627928.png)
 
 记住，我们选择的路径需要为空，不然无法创建，第二个Location不用动它，是自动默认的，其余不用点，然后点击Create。出现如下界面，这是Pycharm在配置环境，静静等待。最后点击close关掉提示就好了。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/293fc46300f05921e741289ee79f55a6.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627929.png)
 
 10、建立编译环境
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/322e65c6b83b952e4ec9458b5276d3f1-164301514413620.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627930.png)
 
-右键![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/e11dc3f2a29cd9c141209cac8d03b4bc.png)点击New,选择Python File
+右键![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627931.png)点击New,选择Python File
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/0e7e4c17704a6b0ae1c4f1b0db5e452c.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627932.png)
 
 给file取个名字，点击OK
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/778b13d3e9a32ce82a05cde3a518ad5b.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627933.png)
 
 系统会默认生成hello.py
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/834a3cf5f65e9809eea7c9116e613c24.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627934.png)
 
 好了，至此，我们的初始工作基本完成。
 
 11、我们来编译一下
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/90254e6eaa4ab5399508e635f7578561.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627935.png)
 
 快捷键ctrl+shift+F10或者点击绿色三角形,就会编译，编译结果如下
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/4e8f49fc609d3a781a0d17a4b923b598.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627936.png)
 
  
 
 12、对了，因为我之前已经添加过了，所以可以直接编译，还有很重要的一步没说，不然pycharm无法找到解释器，将无法编译。
 
-点击File,选择settings,点击![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/e942f572bd38f78d1f3c6c9e3fac64eb.png)，再点击![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/6fdb10bd80fb34cfb73ddd74829f5a99.png)
+点击File,选择settings,点击![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627937.png)，再点击![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627938.png)
 
 添加解释器
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/6db36fc0584ec3be3843f699d75b596d.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627939.png)
 
 最后点击Apply。等待系统配置。
 
 如果我们需要添加新的模块，点击绿色+号
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/f0def7c5a07e92533be9a5249ef06122.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627940.png)
 
 然后直接搜索pymysql
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/fe512fa229fa6f680fde835e17b4f6c8.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627941.png)
 
 然后点安装
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/d0de8f9123d40f80fc2025cf951f8d8d.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627942.png)
 
 以上就是pycharm的安装过程以及初始化，还有Python解释器的安装配置。
 
@@ -2559,7 +2559,7 @@ Location是我们存放工程的路径，点击这个三角符号，可以看到
 
 选择一个支持中文的编码格式：
 
-![https://img-blog.csdnimg.cn/20200808141836841.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMTEyMjA1,size_16,color_FFFFFF,t_70](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image002-16421425470013.jpg)
+![https://img-blog.csdnimg.cn/20200808141836841.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMTEyMjA1,size_16,color_FFFFFF,t_70](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627943.jpg)
 
  
 
@@ -2567,7 +2567,7 @@ Location是我们存放工程的路径，点击这个三角符号，可以看到
 
 如下选择utf-8
 
-![https://img-blog.csdnimg.cn/20200808142048363.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMTEyMjA1,size_16,color_FFFFFF,t_70](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image004-16421425470024.jpg)
+![https://img-blog.csdnimg.cn/20200808142048363.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMTEyMjA1,size_16,color_FFFFFF,t_70](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627944.jpg)
 
  
 
@@ -2583,13 +2583,13 @@ Location是我们存放工程的路径，点击这个三角符号，可以看到
 
 字体中选择一个中文字体，如下：
 
-![https://img-blog.csdnimg.cn/20200808142322754.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMTEyMjA1,size_16,color_FFFFFF,t_70](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image006-16421425470035.jpg)
+![https://img-blog.csdnimg.cn/20200808142322754.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMTEyMjA1,size_16,color_FFFFFF,t_70](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627945.jpg)
 
  
 
 **4、 在window下如果还是乱码，**可以如下设置：
 
-![https://img-blog.csdnimg.cn/20200808142810826.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMTEyMjA1,size_16,color_FFFFFF,t_70](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image008-16421425470036.jpg)
+![https://img-blog.csdnimg.cn/20200808142810826.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMxMTEyMjA1,size_16,color_FFFFFF,t_70](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627946.jpg)
 
  
 
@@ -2623,7 +2623,7 @@ pycharm是一个可以设置环境的强大程序，许多用户还不知道如�
 
 在弹窗里面选择New environment 或者 Existing environment皆可，设置路径为本地配置的python.exe路径，接下来就可以运行python程序了。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image010-16421425470037.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627947.jpg)
 
  
 
@@ -3140,7 +3140,7 @@ importlib.reload(sys)
 
 **找到警告信息中报错的目录，然后删掉~开头的文件夹，那种是之前安装插件失败/中途退出，导致插件安装出现异常导致的**，虽说警告信息不影响，但是有强迫症 哈哈 。
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/20210703003803473.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627948.png)
 
 
 
@@ -3173,7 +3173,7 @@ def add(a:int, b:int) -> int:
 
  这个网站(https://mypy-lang.org，有墙)对这个功能进行了说明：
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/clip_image002-164214278643927.jpg)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627949.jpg)
 
  
 
@@ -3447,7 +3447,7 @@ Duplicated函数功能：查找并显示数据表中的重复值
 data.duplicated()   #返回布尔型数据，告诉重复值的位置
 ```
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/8076423-988ae970d5bb7ff5.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627950.png)
 
 ### 2.检查有多少重复值
 
@@ -3455,7 +3455,7 @@ data.duplicated()   #返回布尔型数据，告诉重复值的位置
 data.duplicated().sum() #说明有4个重复值
 ```
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/8076423-26b360c6f784ec91.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627951.png)
 
 ### 3.打印重复值
 
@@ -3465,7 +3465,7 @@ data[data.duplicated()]#打印重复值
 data[data.duplicated()==True]#打印重复值
 ```
 
-![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/8076423-35731728a0b45921.png)
+![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627952.png)
 
 ### 4.打印非重复值
 
@@ -3528,19 +3528,19 @@ df['总秒数'] = df['时间差'].dt.total_seconds()
 
 - Typora设置
 
-![image-20220905123101810](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220905123101810.png)
+![image-20220905123101810](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627953.png)
 
 - PicGo设置
 
-![image-20220905123455644](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220905123455644.png)
+![image-20220905123455644](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627954.png)
 
-![image-20220905123523629](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220905123523629.png)
+![image-20220905123523629](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627955.png)
 
 ## gitee图床失效更换github设置
 
 - github设置
 
-  ![image-20220915184153325](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220915184153325.png)
+  ![image-20220915184153325](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627956.png)
 
   > CDN加速：https://cdn.jsdelivr.net/gh/xiaoyinshang/blogImage
 
@@ -3558,7 +3558,7 @@ df['总秒数'] = df['时间差'].dt.total_seconds()
 
     1. 打开[域名解析网址](https://ping.eu/nslookup)，输入`raw.githubusercontent.com`，如下图：
 
-       ![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/8957a085d3b4443d87d6fae2d64db1bd.png)
+       ![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627957.png)
 
     2. 找到 `C:\Windows\System32\drivers\etc\hosts` 文件
 
@@ -3581,13 +3581,13 @@ df['总秒数'] = df['时间差'].dt.total_seconds()
 
          保存后，输入`cmd`打开黑窗口，输入`ipconfig /flushdns`刷新一下本机的DNS解析。
 
-         ![img](C:/Users/shang/Nutstore/1/Typora/Typora_pic/3038e09b8bfc246ba9004d32d0bfc64d.png)
+         ![img](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627958.png)
 
          然后重启软件即可看到图片成功加载出来啦！
 
       6. 检查cmd-ping raw.githubusercontent.com命令
 
-         ![image-20220915191548532](C:/Users/shang/Nutstore/1/Typora/Typora_pic/image-20220915191548532.png)
+         ![image-20220915191548532](https://raw.githubusercontent.com/xiaoyinshang/blogImage/main/202310121627959.png)
 
 
 ## Typora提示测试版过期
